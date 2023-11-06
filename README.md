@@ -10,8 +10,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ## Authors
-
-- Github -[AnitaMohanta23](https://github.com/AnitaMohanta23/Google-Meet-Clone)
 - LinkedIn -[Anita Mohanta]( https://linkedin.com/in/anita-mohanta-643717228)
 
 
